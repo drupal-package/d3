@@ -1,0 +1,6 @@
+{
+  "name": "drupal-package/d3",
+  "description": "Allows to clone the d3/d3 repository",
+  "type": "drupal-library",
+  "keywords": ["plugin", "drupal-library", "d3"]
+}
